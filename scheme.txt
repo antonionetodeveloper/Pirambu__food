@@ -1,0 +1,32 @@
+
+
+
+
+                              APP.JS
+                               /  \
+                              /    \
+                             /      \
+                            /        \
+                           /--ROUTER--\ 
+                                 |
+                                 |
+                                 |
+                                 |
+                                 |
+ALLRESTAURANTS ------------- HOME.JS ------------ DETAIL
+       \                        /\
+        \                      /  \
+         \                    /    \
+          \                  /      \
+           \                /        \
+            \              /          \
+             \            /          Person 
+              \          /	    Settings
+               \        /
+              RESTAURANTS           
+
+              
+                        
+                       
+                      
+                    
